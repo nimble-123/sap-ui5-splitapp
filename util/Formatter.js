@@ -5,8 +5,9 @@ jQuery.sap.require("sap.ui.core.format.DateFormat");
 abat.Mockup.util.Formatter = {
 	
 	_statusStateMap : {
-		"Neu" : "Error",
-		"Initial" : "Success"
+		"lieferbar" : "Success",
+		"bald lieferbar" : "Warning",
+		"ausverkauft" : "Error"
 	},
 	
 	statusState :  function (value) {

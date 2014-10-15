@@ -15,13 +15,12 @@ sap.ui.controller("abat.Mockup.view.Master", {
 		this.nav.to("Detail", context);
 	},
 	
-	handleSearch : function (evt) {
-		
+	handleSearch : function (evt) {		
 		// create model filter
 		var filters = [];
 		var query = evt.getParameter("query");
 		if (query && query.length > 0) {
-			var filter = new sap.ui.model.Filter("SoId", sap.ui.model.FilterOperator.Contains, query);
+			var filter = new sap.ui.model.Filter("MaterialName", sap.ui.model.FilterOperator.Contains, query);
 			filters.push(filter);
 		}
 		
@@ -37,7 +36,6 @@ sap.ui.controller("abat.Mockup.view.Master", {
 	},
 
 	handleViewSettings : function (evt) {
-
 		// create dialog
 		var that = this;
 		if (!this._lineItemViewDialog) {
@@ -49,7 +47,7 @@ sap.ui.controller("abat.Mockup.view.Master", {
 					}),
 					new sap.m.ViewSettingsItem({
 						text : "Status",
-						key : "BillingStatus"
+						key : "Status"
 					})
 				],
 				confirm : function (evt) {

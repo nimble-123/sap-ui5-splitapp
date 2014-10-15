@@ -3,7 +3,7 @@
         {
             "MatId": "100000000002082980",
             "MaterialName": "Produkt 1",
-            "Status": "Initial",
+            "Status": "lieferbar",
             "Quantity": "251",
             "MinimalQuantity": "100",
             "GrossAmount": "13224.47",
@@ -142,7 +142,7 @@
         {
             "MatId": "100000000000608800",
             "MaterialName": "Produkt 2",
-            "Status": "Initial",
+            "Status": "lieferbar",
             "Quantity": "80",
             "MinimalQuantity": "100",
             "GrossAmount": "12493.73",
@@ -281,8 +281,8 @@
         {
             "MatId": "100000000007501820",
             "MaterialName": "Produkt 3",
-            "Status": "Initial",
-            "Quantity": "300",
+            "Status": "ausverkauft",
+            "Quantity": "0",
             "MinimalQuantity": "100",
             "GrossAmount": "16561.23",
             "NetAmount": "13917.00",
@@ -420,8 +420,8 @@
         {
             "MatId": "100000000008869090",
             "MaterialName": "Produkt 4",
-            "Status": "Initial",
-            "Quantity": "300",
+            "Status": "bald lieferbar",
+            "Quantity": "50",
             "MinimalQuantity": "100",
             "GrossAmount": "12515.23",
             "NetAmount": "10517.00",
@@ -559,8 +559,8 @@
         {
             "MatId": "100000000000652580",
             "MaterialName": "Produkt 5",
-            "Status": "Initial",
-            "Quantity": "300",
+            "Status": "bald lieferbar",
+            "Quantity": "257",
             "MinimalQuantity": "100",
             "GrossAmount": "8368.08",
             "NetAmount": "7032.00",

@@ -2,8 +2,8 @@ jQuery.sap.declare("abat.Mockup.util.Grouper");
 
 abat.Mockup.util.Grouper = {
 	
-	BillingStatus : function (oContext) {
-		var status = oContext.getProperty("BillingStatus");
+	Status : function (oContext) {
+		var status = oContext.getProperty("Status");
 		return {
 			key: status,
 			text: status
