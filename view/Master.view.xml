@@ -28,17 +28,17 @@
 			<ObjectListItem
 				type="{device>/listItemType}"
 				press="handleListItemPress"
-				title="{SoId}"
+				title="{MaterialName}"
 				number="{Quantity}"
 				numberUnit="{i18n&gt;QuantityUnit}"
 				numberState="{parts : [ 'Quantity', 'MinimalQuantity' ],formatter : 'abat.Mockup.util.Formatter.numberState'}" >
 				<attributes>
-					<ObjectAttribute text="{BusinessPartner/CompanyName}" />
+					<ObjectAttribute text="{MatId}" />
 				</attributes>
 				<firstStatus>
 					<ObjectStatus
-						text="{BillingStatus}"
-						state="{path: 'BillingStatus',formatter: 'abat.Mockup.util.Formatter.statusState'}" />
+						text="{Status}"
+						state="{path: 'Status',formatter: 'abat.Mockup.util.Formatter.statusState'}" />
 				</firstStatus>
 			</ObjectListItem>
 		</List>

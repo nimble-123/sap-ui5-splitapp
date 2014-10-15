@@ -8,19 +8,20 @@
 		showNavButton="{device>/isPhone}"
 		navButtonPress="handleNavButtonPress" >
 		<ObjectHeader
-			title="{SoId}"
+			title="{MaterialName}"
 			number="{Quantity}"
 			numberUnit="{i18n&gt;QuantityUnit}"
-			numberState="{parts: [ 'Quantity', 'MinimalQuantity' ],formatter: 'abat.Mockup.util.Formatter.numberState'}">
+			numberState="{parts: [ 'Quantity', 'MinimalQuantity' ],formatter: 'abat.Mockup.util.Formatter.numberState'}" icon="img/placeholder.gif">
 			<attributes>
-				<ObjectAttribute text="{BuyerName}" />
-				<ObjectAttribute text="{CreatedByBp}" />
-				<ObjectAttribute text="{path: 'CreatedAt',formatter: 'abat.Mockup.util.Formatter.date'}" />
+				<ObjectAttribute text="{i18n&gt;MatId}: {MatId}"></ObjectAttribute>
+				<ObjectAttribute text="{i18n&gt;GrossAmount}: {GrossAmount} {CurrencyCode}" />
+				<ObjectAttribute text="{i18n&gt;TaxAmount}: {TaxAmount} {CurrencyCode}" />
+				<ObjectAttribute text="{i18n&gt;NetAmount}: {NetAmount} {CurrencyCode}" />
 			</attributes>
 			<firstStatus>
 				<ObjectStatus
-					text="{BillingStatus}"
-					state="{path: 'BillingStatus', formatter: 'abat.Mockup.util.Formatter.statusState'}" />
+					text="{Status}"
+					state="{path: 'Status', formatter: 'abat.Mockup.util.Formatter.statusState'}" />
 			</firstStatus>
 		</ObjectHeader>
 		<IconTabBar
