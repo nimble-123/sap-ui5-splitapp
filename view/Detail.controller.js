@@ -104,7 +104,7 @@ sap.ui.controller("abat.Mockup.view.Detail", {
 			],		
 			// 'data' is used to bind the whole data collection that is to be displayed in the chart 
 			data : {
-				path : "ForecastData"
+				path : "OrderProposalData"
 			}
 			
 		});
