@@ -6,7 +6,6 @@
             "Status": "Initial",
             "Quantity": "251",
             "MinimalQuantity": "100",
-            "QuantityUnit": "pc.",
             "GrossAmount": "13224.47",
             "NetAmount": "11113.00",
             "TaxAmount": "2111.47",
@@ -18,63 +17,125 @@
             "ForecastData": [
                 {
                     "Month": "Januar",
-                    "Menge1": "-141.25",
-                    "Menge2": "410.87"
+                    "Menge1": "289",
+                    "Menge2": "967"
                 },
                 {
                     "Month": "Februar",
-                    "Menge1": "133.82",
-                    "Menge2": "338.29"
+                    "Menge1": "659",
+                    "Menge2": "368"
                 },
                 {
                     "Month": "März",
-                    "Menge1": "348.76",
-                    "Menge2": "487.66"
+                    "Menge1": "955",
+                    "Menge2": "344"
                 },
                 {
                     "Month": "April",
-                    "Menge1": "217.29",
-                    "Menge2": "470.23"
+                    "Menge1": "1107",
+                    "Menge2": "899"
                 },
                 {
                     "Month": "Mai",
-                    "Menge1": "117",
-                    "Menge2": "170.55"
+                    "Menge1": "899",
+                    "Menge2": "348"
                 },
                 {
                     "Month": "Juni",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "1013",
+                    "Menge2": "772"
                 },
                 {
                     "Month": "Juli",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "646",
+                    "Menge2": "459"
                 },
                 {
                     "Month": "August",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "459",
+                    "Menge2": "296"
                 },
                 {
                     "Month": "September",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "1000",
+                    "Menge2": "1048"
                 },
                 {
                     "Month": "Oktober",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "381",
+                    "Menge2": "559"
                 },
                 {
                     "Month": "November",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "763",
+                    "Menge2": "265"
                 },
                 {
                     "Month": "Dezember",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "719",
+                    "Menge2": "857"
+                }
+            ],
+            "OrderProposalData": [
+                {
+                    "Month": "Januar",
+                    "Menge1": "343",
+                    "Menge2": "837"
+                },
+                {
+                    "Month": "Februar",
+                    "Menge1": "803",
+                    "Menge2": "1034"
+                },
+                {
+                    "Month": "März",
+                    "Menge1": "946",
+                    "Menge2": "658"
+                },
+                {
+                    "Month": "April",
+                    "Menge1": "928",
+                    "Menge2": "387"
+                },
+                {
+                    "Month": "Mai",
+                    "Menge1": "387",
+                    "Menge2": "335"
+                },
+                {
+                    "Month": "Juni",
+                    "Menge1": "412",
+                    "Menge2": "620"
+                },
+                {
+                    "Month": "Juli",
+                    "Menge1": "754",
+                    "Menge2": "1079"
+                },
+                {
+                    "Month": "August",
+                    "Menge1": "449",
+                    "Menge2": "220"
+                },
+                {
+                    "Month": "September",
+                    "Menge1": "322",
+                    "Menge2": "656"
+                },
+                {
+                    "Month": "Oktober",
+                    "Menge1": "761",
+                    "Menge2": "413"
+                },
+                {
+                    "Month": "November",
+                    "Menge1": "228",
+                    "Menge2": "645"
+                },
+                {
+                    "Month": "Dezember",
+                    "Menge1": "417",
+                    "Menge2": "761"
                 }
             ]
         },
@@ -84,7 +145,6 @@
             "Status": "Initial",
             "Quantity": "80",
             "MinimalQuantity": "100",
-            "QuantityUnit": "Pieces",
             "GrossAmount": "12493.73",
             "NetAmount": "10498.94",
             "TaxAmount": "1994.79",
@@ -96,63 +156,125 @@
             "ForecastData": [
                 {
                     "Month": "Januar",
-                    "Menge1": "-141.25",
-                    "Menge2": "410.87"
+                    "Menge1": "289",
+                    "Menge2": "967"
                 },
                 {
                     "Month": "Februar",
-                    "Menge1": "133.82",
-                    "Menge2": "338.29"
+                    "Menge1": "659",
+                    "Menge2": "368"
                 },
                 {
                     "Month": "März",
-                    "Menge1": "348.76",
-                    "Menge2": "487.66"
+                    "Menge1": "955",
+                    "Menge2": "344"
                 },
                 {
                     "Month": "April",
-                    "Menge1": "217.29",
-                    "Menge2": "470.23"
+                    "Menge1": "1107",
+                    "Menge2": "899"
                 },
                 {
                     "Month": "Mai",
-                    "Menge1": "117",
-                    "Menge2": "170.55"
+                    "Menge1": "899",
+                    "Menge2": "348"
                 },
                 {
                     "Month": "Juni",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "1013",
+                    "Menge2": "772"
                 },
                 {
                     "Month": "Juli",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "646",
+                    "Menge2": "459"
                 },
                 {
                     "Month": "August",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "459",
+                    "Menge2": "296"
                 },
                 {
                     "Month": "September",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "1000",
+                    "Menge2": "1048"
                 },
                 {
                     "Month": "Oktober",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "381",
+                    "Menge2": "559"
                 },
                 {
                     "Month": "November",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "763",
+                    "Menge2": "265"
                 },
                 {
                     "Month": "Dezember",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "719",
+                    "Menge2": "857"
+                }
+            ],
+            "OrderProposalData": [
+                {
+                    "Month": "Januar",
+                    "Menge1": "343",
+                    "Menge2": "837"
+                },
+                {
+                    "Month": "Februar",
+                    "Menge1": "803",
+                    "Menge2": "1034"
+                },
+                {
+                    "Month": "März",
+                    "Menge1": "946",
+                    "Menge2": "658"
+                },
+                {
+                    "Month": "April",
+                    "Menge1": "928",
+                    "Menge2": "387"
+                },
+                {
+                    "Month": "Mai",
+                    "Menge1": "387",
+                    "Menge2": "335"
+                },
+                {
+                    "Month": "Juni",
+                    "Menge1": "412",
+                    "Menge2": "620"
+                },
+                {
+                    "Month": "Juli",
+                    "Menge1": "754",
+                    "Menge2": "1079"
+                },
+                {
+                    "Month": "August",
+                    "Menge1": "449",
+                    "Menge2": "220"
+                },
+                {
+                    "Month": "September",
+                    "Menge1": "322",
+                    "Menge2": "656"
+                },
+                {
+                    "Month": "Oktober",
+                    "Menge1": "761",
+                    "Menge2": "413"
+                },
+                {
+                    "Month": "November",
+                    "Menge1": "228",
+                    "Menge2": "645"
+                },
+                {
+                    "Month": "Dezember",
+                    "Menge1": "417",
+                    "Menge2": "761"
                 }
             ]
         },
@@ -162,7 +284,6 @@
             "Status": "Initial",
             "Quantity": "300",
             "MinimalQuantity": "100",
-            "QuantityUnit": "Pieces",
             "GrossAmount": "16561.23",
             "NetAmount": "13917.00",
             "TaxAmount": "2644.23",
@@ -174,63 +295,125 @@
             "ForecastData": [
                 {
                     "Month": "Januar",
-                    "Menge1": "-141.25",
-                    "Menge2": "410.87"
+                    "Menge1": "289",
+                    "Menge2": "967"
                 },
                 {
                     "Month": "Februar",
-                    "Menge1": "133.82",
-                    "Menge2": "338.29"
+                    "Menge1": "659",
+                    "Menge2": "368"
                 },
                 {
                     "Month": "März",
-                    "Menge1": "348.76",
-                    "Menge2": "487.66"
+                    "Menge1": "955",
+                    "Menge2": "344"
                 },
                 {
                     "Month": "April",
-                    "Menge1": "217.29",
-                    "Menge2": "470.23"
+                    "Menge1": "1107",
+                    "Menge2": "899"
                 },
                 {
                     "Month": "Mai",
-                    "Menge1": "117",
-                    "Menge2": "170.55"
+                    "Menge1": "899",
+                    "Menge2": "348"
                 },
                 {
                     "Month": "Juni",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "1013",
+                    "Menge2": "772"
                 },
                 {
                     "Month": "Juli",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "646",
+                    "Menge2": "459"
                 },
                 {
                     "Month": "August",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "459",
+                    "Menge2": "296"
                 },
                 {
                     "Month": "September",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "1000",
+                    "Menge2": "1048"
                 },
                 {
                     "Month": "Oktober",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "381",
+                    "Menge2": "559"
                 },
                 {
                     "Month": "November",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "763",
+                    "Menge2": "265"
                 },
                 {
                     "Month": "Dezember",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "719",
+                    "Menge2": "857"
+                }
+            ],
+            "OrderProposalData": [
+                {
+                    "Month": "Januar",
+                    "Menge1": "343",
+                    "Menge2": "837"
+                },
+                {
+                    "Month": "Februar",
+                    "Menge1": "803",
+                    "Menge2": "1034"
+                },
+                {
+                    "Month": "März",
+                    "Menge1": "946",
+                    "Menge2": "658"
+                },
+                {
+                    "Month": "April",
+                    "Menge1": "928",
+                    "Menge2": "387"
+                },
+                {
+                    "Month": "Mai",
+                    "Menge1": "387",
+                    "Menge2": "335"
+                },
+                {
+                    "Month": "Juni",
+                    "Menge1": "412",
+                    "Menge2": "620"
+                },
+                {
+                    "Month": "Juli",
+                    "Menge1": "754",
+                    "Menge2": "1079"
+                },
+                {
+                    "Month": "August",
+                    "Menge1": "449",
+                    "Menge2": "220"
+                },
+                {
+                    "Month": "September",
+                    "Menge1": "322",
+                    "Menge2": "656"
+                },
+                {
+                    "Month": "Oktober",
+                    "Menge1": "761",
+                    "Menge2": "413"
+                },
+                {
+                    "Month": "November",
+                    "Menge1": "228",
+                    "Menge2": "645"
+                },
+                {
+                    "Month": "Dezember",
+                    "Menge1": "417",
+                    "Menge2": "761"
                 }
             ]
         },
@@ -240,7 +423,6 @@
             "Status": "Initial",
             "Quantity": "300",
             "MinimalQuantity": "100",
-            "QuantityUnit": "Pieces",
             "GrossAmount": "12515.23",
             "NetAmount": "10517.00",
             "TaxAmount": "1998.23",
@@ -252,63 +434,125 @@
             "ForecastData": [
                 {
                     "Month": "Januar",
-                    "Menge1": "-141.25",
-                    "Menge2": "410.87"
+                    "Menge1": "289",
+                    "Menge2": "967"
                 },
                 {
                     "Month": "Februar",
-                    "Menge1": "133.82",
-                    "Menge2": "338.29"
+                    "Menge1": "659",
+                    "Menge2": "368"
                 },
                 {
                     "Month": "März",
-                    "Menge1": "348.76",
-                    "Menge2": "487.66"
+                    "Menge1": "955",
+                    "Menge2": "344"
                 },
                 {
                     "Month": "April",
-                    "Menge1": "217.29",
-                    "Menge2": "470.23"
+                    "Menge1": "1107",
+                    "Menge2": "899"
                 },
                 {
                     "Month": "Mai",
-                    "Menge1": "117",
-                    "Menge2": "170.55"
+                    "Menge1": "899",
+                    "Menge2": "348"
                 },
                 {
                     "Month": "Juni",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "1013",
+                    "Menge2": "772"
                 },
                 {
                     "Month": "Juli",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "646",
+                    "Menge2": "459"
                 },
                 {
                     "Month": "August",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "459",
+                    "Menge2": "296"
                 },
                 {
                     "Month": "September",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "1000",
+                    "Menge2": "1048"
                 },
                 {
                     "Month": "Oktober",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "381",
+                    "Menge2": "559"
                 },
                 {
                     "Month": "November",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "763",
+                    "Menge2": "265"
                 },
                 {
                     "Month": "Dezember",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "719",
+                    "Menge2": "857"
+                }
+            ],
+            "OrderProposalData": [
+                {
+                    "Month": "Januar",
+                    "Menge1": "343",
+                    "Menge2": "837"
+                },
+                {
+                    "Month": "Februar",
+                    "Menge1": "803",
+                    "Menge2": "1034"
+                },
+                {
+                    "Month": "März",
+                    "Menge1": "946",
+                    "Menge2": "658"
+                },
+                {
+                    "Month": "April",
+                    "Menge1": "928",
+                    "Menge2": "387"
+                },
+                {
+                    "Month": "Mai",
+                    "Menge1": "387",
+                    "Menge2": "335"
+                },
+                {
+                    "Month": "Juni",
+                    "Menge1": "412",
+                    "Menge2": "620"
+                },
+                {
+                    "Month": "Juli",
+                    "Menge1": "754",
+                    "Menge2": "1079"
+                },
+                {
+                    "Month": "August",
+                    "Menge1": "449",
+                    "Menge2": "220"
+                },
+                {
+                    "Month": "September",
+                    "Menge1": "322",
+                    "Menge2": "656"
+                },
+                {
+                    "Month": "Oktober",
+                    "Menge1": "761",
+                    "Menge2": "413"
+                },
+                {
+                    "Month": "November",
+                    "Menge1": "228",
+                    "Menge2": "645"
+                },
+                {
+                    "Month": "Dezember",
+                    "Menge1": "417",
+                    "Menge2": "761"
                 }
             ]
         },
@@ -318,7 +562,6 @@
             "Status": "Initial",
             "Quantity": "300",
             "MinimalQuantity": "100",
-            "QuantityUnit": "Pieces",
             "GrossAmount": "8368.08",
             "NetAmount": "7032.00",
             "TaxAmount": "1336.08",
@@ -330,33 +573,125 @@
             "ForecastData": [
                 {
                     "Month": "Januar",
-                    "Menge1": "-141.25",
-                    "Menge2": "410.87"
+                    "Menge1": "289",
+                    "Menge2": "967"
                 },
                 {
                     "Month": "Februar",
-                    "Menge1": "133.82",
-                    "Menge2": "338.29"
+                    "Menge1": "659",
+                    "Menge2": "368"
                 },
                 {
                     "Month": "März",
-                    "Menge1": "348.76",
-                    "Menge2": "487.66"
+                    "Menge1": "955",
+                    "Menge2": "344"
                 },
                 {
                     "Month": "April",
-                    "Menge1": "217.29",
-                    "Menge2": "470.23"
+                    "Menge1": "1107",
+                    "Menge2": "899"
                 },
                 {
                     "Month": "Mai",
-                    "Menge1": "117",
-                    "Menge2": "170.55"
+                    "Menge1": "899",
+                    "Menge2": "348"
                 },
                 {
                     "Month": "Juni",
-                    "Menge1": "609.16",
-                    "Menge2": "910.87"
+                    "Menge1": "1013",
+                    "Menge2": "772"
+                },
+                {
+                    "Month": "Juli",
+                    "Menge1": "646",
+                    "Menge2": "459"
+                },
+                {
+                    "Month": "August",
+                    "Menge1": "459",
+                    "Menge2": "296"
+                },
+                {
+                    "Month": "September",
+                    "Menge1": "1000",
+                    "Menge2": "1048"
+                },
+                {
+                    "Month": "Oktober",
+                    "Menge1": "381",
+                    "Menge2": "559"
+                },
+                {
+                    "Month": "November",
+                    "Menge1": "763",
+                    "Menge2": "265"
+                },
+                {
+                    "Month": "Dezember",
+                    "Menge1": "719",
+                    "Menge2": "857"
+                }
+            ],
+            "OrderProposalData": [
+                {
+                    "Month": "Januar",
+                    "Menge1": "343",
+                    "Menge2": "837"
+                },
+                {
+                    "Month": "Februar",
+                    "Menge1": "803",
+                    "Menge2": "1034"
+                },
+                {
+                    "Month": "März",
+                    "Menge1": "946",
+                    "Menge2": "658"
+                },
+                {
+                    "Month": "April",
+                    "Menge1": "928",
+                    "Menge2": "387"
+                },
+                {
+                    "Month": "Mai",
+                    "Menge1": "387",
+                    "Menge2": "335"
+                },
+                {
+                    "Month": "Juni",
+                    "Menge1": "412",
+                    "Menge2": "620"
+                },
+                {
+                    "Month": "Juli",
+                    "Menge1": "754",
+                    "Menge2": "1079"
+                },
+                {
+                    "Month": "August",
+                    "Menge1": "449",
+                    "Menge2": "220"
+                },
+                {
+                    "Month": "September",
+                    "Menge1": "322",
+                    "Menge2": "656"
+                },
+                {
+                    "Month": "Oktober",
+                    "Menge1": "761",
+                    "Menge2": "413"
+                },
+                {
+                    "Month": "November",
+                    "Menge1": "228",
+                    "Menge2": "645"
+                },
+                {
+                    "Month": "Dezember",
+                    "Menge1": "417",
+                    "Menge2": "761"
                 }
             ]
         }

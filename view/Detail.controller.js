@@ -100,11 +100,7 @@ sap.ui.controller("abat.Mockup.view.Detail", {
 				{
 					name : 'Menge1', // 'name' is used as label in the Legend 
 					value : '{Menge1}' // 'value' defines the binding for the displayed value   
-				},
-				{
-					name : 'Menge2', 
-					value : '{Menge2}'
-				} 
+				}
 			],		
 			// 'data' is used to bind the whole data collection that is to be displayed in the chart 
 			data : {
