@@ -1,0 +1,1799 @@
+{
+    "Products": [
+        {
+            "SoId": "Produkt1",
+            "ApprovalStatus": "",
+            "Status": "Initial",
+            "ConfirmationStatus": "",
+            "BillingStatus": "Neu",
+            "OrderingStatus": "",
+            "OrderingStatusDesc": "Initial",
+            "LifecycleStatus": "N",
+            "LifecycleStatusDesc": "Neu",
+            "Quantity": "251",
+            "MinimalQuantity": "100",
+            "QuantityUnit": "pc.",
+            "GrossAmount": "13224.47",
+            "NetAmount": "11113.00",
+            "TaxAmount": "2111.47",
+            "CurrencyCode": "EUR",
+            "CreatedAt": "2013-05-22T22:00:00",
+            "ChangedAt": "2013-05-22T22:00:00.000Z",
+            "CreatedByBp": "EPM USER",
+            "ChangedByName": "EPM USER",
+            "BusinessPartner": {
+                "CompanyName": "SAP AG",
+                "SoId": "100000000",
+                "Street": "Dietmar-Hopp-Allee",
+                "Building": "15",
+                "PostalCode": "69190",
+                "City": "Walldorf",
+                "Country": "DE"
+            },
+            "Notes": [
+                {
+                    "Author": "George Washington",
+                    "Text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                    "CreatedAt": "2013-05-22T22:00:00",
+                    "Thumbnail": "http://upload.wikimedia.org/wikipedia/commons/2/25/George_Washington_as_CIC_of_the_Continental_Army_bust.jpg"
+                },
+                {
+                    "Author": "Christopher Columbus",
+                    "Text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr",
+                    "CreatedAt": "2013-05-22T22:00:00",
+                    "Thumbnail": "http://upload.wikimedia.org/wikipedia/commons/0/06/CristobalColon.jpg"
+                },
+                {
+                    "Author": "Alexandrina Victoria",
+                    "Text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat",
+                    "CreatedAt": "2013-05-22T22:00:00",
+                    "Thumbnail": "http://upload.wikimedia.org/wikipedia/commons/a/aa/Dronning_victoria.jpg"
+                }
+            ],
+            "Attachments": [
+                {
+                    "Type": "ppt",
+                    "Title": "Execution plan",
+                    "Description": "Slide deck for the execution plan",
+                    "Size": "23 KB",
+                    "CreatedAt": "2013-01-11T22:00:00"
+                },
+                {
+                    "Type": "pdf",
+                    "Title": "Brochure",
+                    "Description": "A brochure of the desired hotel",
+                    "Size": "23 KB",
+                    "CreatedAt": "2013-01-11T22:00:00"
+                },
+                {
+                    "Type": "PostalCode",
+                    "Title": "Vacation images",
+                    "Description": "Archive of all those images from my vacation that i have taken while being away for a very long time",
+                    "Size": "5.3 MB",
+                    "CreatedAt": "2013-01-11T22:00:00"
+                }
+            ],
+            "ForecastData": [
+                {
+                    "Month": "Januar",
+                    "Menge1": "-141.25",
+                    "Menge2": "410.87"
+                },
+                {
+                    "Month": "Februar",
+                    "Menge1": "133.82",
+                    "Menge2": "338.29"
+                },
+                {
+                    "Month": "März",
+                    "Menge1": "348.76",
+                    "Menge2": "487.66"
+                },
+                {
+                    "Month": "April",
+                    "Menge1": "217.29",
+                    "Menge2": "470.23"
+                },
+                {
+                    "Month": "Mai",
+                    "Menge1": "117",
+                    "Menge2": "170.55"
+                },
+                {
+                    "Month": "Juni",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "Juli",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "August",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "September",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "Oktober",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "November",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "Dezember",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                }
+            ],
+            "LineItems": [
+                {
+                    "SoItemPos": "300000000",
+                    "Quantity": "1.000",
+                    "GrossAmount": "1137.64",
+                    "NetAmount": "956.00",
+                    "TaxAmount": "181.64",
+                    "CurrencyCode": "EUR",
+                    "ProductId": "HT-1000",
+                    "ProductName": "Notebook Basic 15",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000000",
+                    "Quantity": "2.000",
+                    "GrossAmount": "61.88",
+                    "NetAmount": "52.00",
+                    "TaxAmount": "9.88",
+                    "CurrencyCode": "EUR",
+                    "ProductId": "HT-1091",
+                    "ProductName": "Blaster Extreme",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000000",
+                    "Quantity": "2.000",
+                    "GrossAmount": "1116.22",
+                    "NetAmount": "938.00",
+                    "TaxAmount": "178.22",
+                    "CurrencyCode": "EUR",
+                    "ProductId": "HT-6100",
+                    "ProductName": "Beam Breaker B-1",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000000",
+                    "Quantity": "2.000",
+                    "GrossAmount": "2275.28",
+                    "NetAmount": "1912.00",
+                    "TaxAmount": "363.28",
+                    "CurrencyCode": "EUR",
+                    "ProductId": "HT-1000",
+                    "ProductName": "Notebook Basic 15",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000000",
+                    "Quantity": "3.000",
+                    "GrossAmount": "92.82",
+                    "NetAmount": "78.00",
+                    "TaxAmount": "14.82",
+                    "CurrencyCode": "EUR",
+                    "ProductId": "HT-1091",
+                    "ProductName": "Blaster Extreme",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000000",
+                    "Quantity": "2.000",
+                    "GrossAmount": "1116.22",
+                    "NetAmount": "938.00",
+                    "TaxAmount": "178.22",
+                    "CurrencyCode": "EUR",
+                    "ProductId": "HT-6100",
+                    "ProductName": "Beam Breaker B-1",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000000",
+                    "Quantity": "2.000",
+                    "GrossAmount": "2275.28",
+                    "NetAmount": "1912.00",
+                    "TaxAmount": "363.28",
+                    "CurrencyCode": "EUR",
+                    "ProductId": "HT-1000",
+                    "ProductName": "Notebook Basic 15",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000000",
+                    "Quantity": "2.000",
+                    "GrossAmount": "61.88",
+                    "NetAmount": "52.00",
+                    "TaxAmount": "9.88",
+                    "CurrencyCode": "EUR",
+                    "ProductId": "HT-1091",
+                    "ProductName": "Blaster Extreme",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000000",
+                    "Quantity": "3.000",
+                    "GrossAmount": "1674.33",
+                    "NetAmount": "1407.00",
+                    "TaxAmount": "267.33",
+                    "CurrencyCode": "EUR",
+                    "ProductId": "HT-6100",
+                    "ProductName": "Beam Breaker B-1",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000000",
+                    "Quantity": "3.000",
+                    "GrossAmount": "3412.92",
+                    "NetAmount": "2868.00",
+                    "TaxAmount": "544.92",
+                    "CurrencyCode": "EUR",
+                    "ProductId": "HT-1000",
+                    "ProductName": "Notebook Basic 15",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                }
+            ]
+        },
+        {
+            "SoId": "Produkt2",
+            "ApprovalStatus": "",
+            "Status": "Initial",
+            "ConfirmationStatus": "",
+            "BillingStatus": "Initial",
+            "OrderingStatus": "",
+            "OrderingStatusDesc": "Initial",
+            "LifecycleStatus": "N",
+            "LifecycleStatusDesc": "Neu",
+            "Quantity": "80",
+            "MinimalQuantity": "100",
+            "QuantityUnit": "Pieces",
+            "GrossAmount": "12493.73",
+            "NetAmount": "10498.94",
+            "TaxAmount": "1994.79",
+            "CurrencyCode": "EUR",
+            "CreatedAt": "2013-05-22T22:00:00",
+            "ChangedAt": "2013-05-22T22:00:00.000Z",
+            "CreatedByBp": "EPM USER",
+            "ChangedByName": "EPM USER",
+            "BusinessPartner": {
+                "SoId": "100000002",
+                "CompanyName": "DelBont Industries",
+                "Street": "1 2345 King Street",
+                "Building": "1",
+                "PostalCode": "19899",
+                "City": "Wilmington, Delaware",
+                "Country": "US"
+            },
+            "ForecastData": [
+                {
+                    "Month": "Januar",
+                    "Menge1": "-141.25",
+                    "Menge2": "410.87"
+                },
+                {
+                    "Month": "Februar",
+                    "Menge1": "133.82",
+                    "Menge2": "338.29"
+                },
+                {
+                    "Month": "März",
+                    "Menge1": "348.76",
+                    "Menge2": "487.66"
+                },
+                {
+                    "Month": "April",
+                    "Menge1": "217.29",
+                    "Menge2": "470.23"
+                },
+                {
+                    "Month": "Mai",
+                    "Menge1": "117",
+                    "Menge2": "170.55"
+                },
+                {
+                    "Month": "Juni",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "Juli",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "August",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "September",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "Oktober",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "November",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "Dezember",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                }
+            ],
+            "Notes": [
+                {
+                    "Author": "George Washington",
+                    "Text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                    "CreatedAt": "2013-05-22T22:00:00",
+                    "Thumbnail": "http://upload.wikimedia.org/wikipedia/commons/2/25/George_Washington_as_CIC_of_the_Continental_Army_bust.jpg"
+                },
+                {
+                    "Author": "Christopher Columbus",
+                    "Text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr",
+                    "CreatedAt": "2013-05-22T22:00:00",
+                    "Thumbnail": "http://upload.wikimedia.org/wikipedia/commons/0/06/CristobalColon.jpg"
+                }
+            ],
+            "Attachments": [
+                {
+                    "Type": "ppt",
+                    "Title": "Execution plan",
+                    "Description": "Slide deck for the execution plan",
+                    "Size": "23 KB",
+                    "CreatedAt": "2013-01-11T22:00:00"
+                },
+                {
+                    "Type": "pdf",
+                    "Title": "Brochure",
+                    "Description": "A brochure of the desired hotel",
+                    "Size": "23 KB",
+                    "CreatedAt": "2013-01-11T22:00:00"
+                }
+            ],
+            "LineItems": [
+                {
+                    "SoItemPos": "300000001",
+                    "Quantity": "2.000",
+                    "GrossAmount": "213.96",
+                    "NetAmount": "179.80",
+                    "TaxAmount": "34.16",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-1100",
+                    "ProductName": "Smart Office",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000001",
+                    "Quantity": "1.000",
+                    "GrossAmount": "35.69",
+                    "NetAmount": "29.99",
+                    "TaxAmount": "5.70",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-2026",
+                    "ProductName": "Audio/Video Cable Kit - 12 ft",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000001",
+                    "Quantity": "2.000",
+                    "GrossAmount": "3736.60",
+                    "NetAmount": "3140.00",
+                    "TaxAmount": "596.60",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-1002",
+                    "ProductName": "Notebook Basic 18",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000001",
+                    "Quantity": "2.000",
+                    "GrossAmount": "213.96",
+                    "NetAmount": "179.80",
+                    "TaxAmount": "34.16",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-1100",
+                    "ProductName": "Smart Office",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000001",
+                    "Quantity": "2.000",
+                    "GrossAmount": "71.38",
+                    "NetAmount": "59.98",
+                    "TaxAmount": "11.40",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-2026",
+                    "ProductName": "Audio/Video Cable Kit - 12 ft",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000001",
+                    "Quantity": "2.000",
+                    "GrossAmount": "3736.60",
+                    "NetAmount": "3140.00",
+                    "TaxAmount": "596.60",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-1002",
+                    "ProductName": "Notebook Basic 18",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000001",
+                    "Quantity": "3.000",
+                    "GrossAmount": "320.94",
+                    "NetAmount": "269.70",
+                    "TaxAmount": "51.24",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-1100",
+                    "ProductName": "Smart Office",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000001",
+                    "Quantity": "3.000",
+                    "GrossAmount": "107.06",
+                    "NetAmount": "89.97",
+                    "TaxAmount": "17.09",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-2026",
+                    "ProductName": "Audio/Video Cable Kit - 12 ft",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000001",
+                    "Quantity": "2.000",
+                    "GrossAmount": "3736.60",
+                    "NetAmount": "3140.00",
+                    "TaxAmount": "596.60",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-1002",
+                    "ProductName": "Notebook Basic 18",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000001",
+                    "Quantity": "3.000",
+                    "GrossAmount": "320.94",
+                    "NetAmount": "269.70",
+                    "TaxAmount": "51.24",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-1100",
+                    "ProductName": "Smart Office",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                }
+            ]
+        },
+        {
+            "SoId": "Produkt4",
+            "ApprovalStatus": "",
+            "Status": "Initial",
+            "ConfirmationStatus": "",
+            "BillingStatus": "Initial",
+            "OrderingStatus": "",
+            "OrderingStatusDesc": "Initial",
+            "LifecycleStatus": "N",
+            "LifecycleStatusDesc": "Neu",
+            "Quantity": "300",
+            "MinimalQuantity": "100",
+            "QuantityUnit": "Pieces",
+            "GrossAmount": "16561.23",
+            "NetAmount": "13917.00",
+            "TaxAmount": "2644.23",
+            "CurrencyCode": "EUR",
+            "CreatedAt": "2013-05-22T22:00:00",
+            "ChangedAt": "2013-05-22T22:00:00.000Z",
+            "CreatedByBp": "EPM USER",
+            "ChangedByName": "EPM USER",
+            "BusinessPartner": {
+                "SoId": "100000008",
+                "CompanyName": "AVANTEL",
+                "Street": "Bosque de Duraznos",
+                "Building": "24",
+                "PostalCode": "17000",
+                "City": "Mexiko City",
+                "Country": "MX"
+            },
+            "ForecastData": [
+                {
+                    "Month": "Januar",
+                    "Menge1": "-141.25",
+                    "Menge2": "410.87"
+                },
+                {
+                    "Month": "Februar",
+                    "Menge1": "133.82",
+                    "Menge2": "338.29"
+                },
+                {
+                    "Month": "März",
+                    "Menge1": "348.76",
+                    "Menge2": "487.66"
+                },
+                {
+                    "Month": "April",
+                    "Menge1": "217.29",
+                    "Menge2": "470.23"
+                },
+                {
+                    "Month": "Mai",
+                    "Menge1": "117",
+                    "Menge2": "170.55"
+                },
+                {
+                    "Month": "Juni",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "Juli",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "August",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "September",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "Oktober",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "November",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "Dezember",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                }
+            ],
+            "Notes": [],
+            "Attachments": [
+                {
+                    "Type": "ppt",
+                    "Title": "Execution plan",
+                    "Description": "Slide deck for the execution plan",
+                    "Size": "23 KB",
+                    "CreatedAt": "2013-01-11T22:00:00"
+                },
+                {
+                    "Type": "pdf",
+                    "Title": "Brochure",
+                    "Description": "A brochure of the desired hotel",
+                    "Size": "23 KB",
+                    "CreatedAt": "2013-01-11T22:00:00"
+                },
+                {
+                    "Type": "PostalCode",
+                    "Title": "Vacation images",
+                    "Description": "Archive of all those images from my vacation that i have taken while being away for a very long time",
+                    "Size": "5.3 MB",
+                    "CreatedAt": "2013-01-11T22:00:00"
+                }
+            ],
+            "LineItems": [
+                {
+                    "SoItemPos": "300000003",
+                    "Quantity": "3.000",
+                    "GrossAmount": "196.35",
+                    "NetAmount": "165.00",
+                    "TaxAmount": "31.35",
+                    "CurrencyCode": "JPY",
+                    "ProductId": "HT-1104",
+                    "ProductName": "Smart Games",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000003",
+                    "Quantity": "3.000",
+                    "GrossAmount": "6069.00",
+                    "NetAmount": "5100.00",
+                    "TaxAmount": "969.00",
+                    "CurrencyCode": "JPY",
+                    "ProductId": "HT-1603",
+                    "ProductName": "Gaming Monster Pro",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000003",
+                    "Quantity": "3.000",
+                    "GrossAmount": "8207.43",
+                    "NetAmount": "6897.00",
+                    "TaxAmount": "1310.43",
+                    "CurrencyCode": "JPY",
+                    "ProductId": "HT-1011",
+                    "ProductName": "Notebook Professional 17",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000003",
+                    "Quantity": "1.000",
+                    "GrossAmount": "65.45",
+                    "NetAmount": "55.00",
+                    "TaxAmount": "10.45",
+                    "CurrencyCode": "JPY",
+                    "ProductId": "HT-1104",
+                    "ProductName": "Smart Games",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000003",
+                    "Quantity": "1.000",
+                    "GrossAmount": "2023.00",
+                    "NetAmount": "1700.00",
+                    "TaxAmount": "323.00",
+                    "CurrencyCode": "JPY",
+                    "ProductId": "HT-1603",
+                    "ProductName": "Gaming Monster Pro",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                }
+            ]
+        },
+        {
+            "SoId": "Produkt5",
+            "ApprovalStatus": "",
+            "Status": "Initial",
+            "ConfirmationStatus": "",
+            "BillingStatus": "Initial",
+            "OrderingStatus": "",
+            "OrderingStatusDesc": "Initial",
+            "LifecycleStatus": "N",
+            "LifecycleStatusDesc": "Neu",
+            "Quantity": "300",
+            "MinimalQuantity": "100",
+            "QuantityUnit": "Pieces",
+            "GrossAmount": "12515.23",
+            "NetAmount": "10517.00",
+            "TaxAmount": "1998.23",
+            "CurrencyCode": "EUR",
+            "CreatedAt": "2013-05-22T22:00:00",
+            "ChangedAt": "2013-05-22T22:00:00.000Z",
+            "CreatedByBp": "EPM USER",
+            "ChangedByName": "EPM USER",
+            "BusinessPartner": {
+                "SoId": "100000009",
+                "CompanyName": "Telecomunicaciones Star",
+                "Street": "Av. Libertador",
+                "Building": "12221",
+                "PostalCode": "1511",
+                "City": "Buenos Aires",
+                "Country": "AR"
+            },
+            "ForecastData": [
+                {
+                    "Month": "Januar",
+                    "Menge1": "-141.25",
+                    "Menge2": "410.87"
+                },
+                {
+                    "Month": "Februar",
+                    "Menge1": "133.82",
+                    "Menge2": "338.29"
+                },
+                {
+                    "Month": "März",
+                    "Menge1": "348.76",
+                    "Menge2": "487.66"
+                },
+                {
+                    "Month": "April",
+                    "Menge1": "217.29",
+                    "Menge2": "470.23"
+                },
+                {
+                    "Month": "Mai",
+                    "Menge1": "117",
+                    "Menge2": "170.55"
+                },
+                {
+                    "Month": "Juni",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "Juli",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "August",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "September",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "Oktober",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "November",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "Dezember",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                }
+            ],
+            "Notes": [
+                {
+                    "Author": "George Washington",
+                    "Text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                    "CreatedAt": "2013-05-22T22:00:00",
+                    "Thumbnail": "http://upload.wikimedia.org/wikipedia/commons/2/25/George_Washington_as_CIC_of_the_Continental_Army_bust.jpg"
+                },
+                {
+                    "Author": "Christopher Columbus",
+                    "Text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr",
+                    "CreatedAt": "2013-05-22T22:00:00",
+                    "Thumbnail": "http://upload.wikimedia.org/wikipedia/commons/0/06/CristobalColon.jpg"
+                },
+                {
+                    "Author": "Alexandrina Victoria",
+                    "Text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat",
+                    "CreatedAt": "2013-05-22T22:00:00",
+                    "Thumbnail": "http://upload.wikimedia.org/wikipedia/commons/a/aa/Dronning_victoria.jpg"
+                }
+            ],
+            "Attachments": [
+                {
+                    "Type": "ppt",
+                    "Title": "Execution plan",
+                    "Description": "Slide deck for the execution plan",
+                    "Size": "23 KB",
+                    "CreatedAt": "2013-01-11T22:00:00"
+                }
+            ],
+            "LineItems": [
+                {
+                    "SoItemPos": "300000004",
+                    "Quantity": "2.000",
+                    "GrossAmount": "5471.62",
+                    "NetAmount": "4598.00",
+                    "TaxAmount": "873.62",
+                    "CurrencyCode": "JPY",
+                    "ProductId": "HT-1011",
+                    "ProductName": "Notebook Professional 17",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000004",
+                    "Quantity": "1.000",
+                    "GrossAmount": "65.45",
+                    "NetAmount": "55.00",
+                    "TaxAmount": "10.45",
+                    "CurrencyCode": "JPY",
+                    "ProductId": "HT-1104",
+                    "ProductName": "Smart Games",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000004",
+                    "Quantity": "2.000",
+                    "GrossAmount": "4046.00",
+                    "NetAmount": "3400.00",
+                    "TaxAmount": "646.00",
+                    "CurrencyCode": "JPY",
+                    "ProductId": "HT-1603",
+                    "ProductName": "Gaming Monster Pro",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000004",
+                    "Quantity": "1.000",
+                    "GrossAmount": "2735.81",
+                    "NetAmount": "2299.00",
+                    "TaxAmount": "436.81",
+                    "CurrencyCode": "JPY",
+                    "ProductId": "HT-1011",
+                    "ProductName": "Notebook Professional 17",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000004",
+                    "Quantity": "3.000",
+                    "GrossAmount": "196.35",
+                    "NetAmount": "165.00",
+                    "TaxAmount": "31.35",
+                    "CurrencyCode": "JPY",
+                    "ProductId": "HT-1104",
+                    "ProductName": "Smart Games",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                }
+            ]
+        },
+        {
+            "SoId": "Produkt6",
+            "ApprovalStatus": "",
+            "Status": "Initial",
+            "ConfirmationStatus": "",
+            "BillingStatus": "Initial",
+            "OrderingStatus": "",
+            "OrderingStatusDesc": "Initial",
+            "LifecycleStatus": "N",
+            "LifecycleStatusDesc": "Neu",
+            "Quantity": "300",
+            "MinimalQuantity": "100",
+            "QuantityUnit": "Pieces",
+            "GrossAmount": "8368.08",
+            "NetAmount": "7032.00",
+            "TaxAmount": "1336.08",
+            "CurrencyCode": "EUR",
+            "CreatedAt": "2013-05-22T22:00:00",
+            "ChangedAt": "2013-05-22T22:00:00.000Z",
+            "CreatedByBp": "EPM USER",
+            "ChangedByName": "EPM USER",
+            "BusinessPartner": {
+                "SoId": "100000008",
+                "CompanyName": "AVANTEL",
+                "Street": "Bosque de Duraznos",
+                "Building": "24",
+                "PostalCode": "17000",
+                "City": "Mexiko City",
+                "Country": "MX"
+            },
+            "ForecastData": [
+                {
+                    "Month": "Januar",
+                    "Menge1": "-141.25",
+                    "Menge2": "410.87"
+                },
+                {
+                    "Month": "Februar",
+                    "Menge1": "133.82",
+                    "Menge2": "338.29"
+                },
+                {
+                    "Month": "März",
+                    "Menge1": "348.76",
+                    "Menge2": "487.66"
+                },
+                {
+                    "Month": "April",
+                    "Menge1": "217.29",
+                    "Menge2": "470.23"
+                },
+                {
+                    "Month": "Mai",
+                    "Menge1": "117",
+                    "Menge2": "170.55"
+                },
+                {
+                    "Month": "Juni",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                }
+            ],
+            "Notes": [
+                {
+                    "Author": "George Washington",
+                    "Text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                    "CreatedAt": "2013-05-22T22:00:00",
+                    "Thumbnail": "http://upload.wikimedia.org/wikipedia/commons/2/25/George_Washington_as_CIC_of_the_Continental_Army_bust.jpg"
+                },
+                {
+                    "Author": "Christopher Columbus",
+                    "Text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr",
+                    "CreatedAt": "2013-05-22T22:00:00",
+                    "Thumbnail": "http://upload.wikimedia.org/wikipedia/commons/0/06/CristobalColon.jpg"
+                }
+            ],
+            "Attachments": [
+                {
+                    "Type": "ppt",
+                    "Title": "Execution plan",
+                    "Description": "Slide deck for the execution plan",
+                    "Size": "23 KB",
+                    "CreatedAt": "2013-01-11T22:00:00"
+                }
+            ],
+            "LineItems": [
+                {
+                    "SoItemPos": "300000005",
+                    "Quantity": "1.000",
+                    "GrossAmount": "1071.00",
+                    "NetAmount": "900.00",
+                    "TaxAmount": "171.00",
+                    "CurrencyCode": "MXN",
+                    "ProductId": "HT-1601",
+                    "ProductName": "Family PC Pro",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000005",
+                    "Quantity": "2.000",
+                    "GrossAmount": "354.62",
+                    "NetAmount": "298.00",
+                    "TaxAmount": "56.62",
+                    "CurrencyCode": "MXN",
+                    "ProductId": "HT-1021",
+                    "ProductName": "Easy Hand V",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000005",
+                    "Quantity": "2.000",
+                    "GrossAmount": "80.92",
+                    "NetAmount": "68.00",
+                    "TaxAmount": "12.92",
+                    "CurrencyCode": "MXN",
+                    "ProductId": "HT-1106",
+                    "ProductName": "Smart Firewall",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000005",
+                    "Quantity": "3.000",
+                    "GrossAmount": "3213.00",
+                    "NetAmount": "2700.00",
+                    "TaxAmount": "513.00",
+                    "CurrencyCode": "MXN",
+                    "ProductId": "HT-1601",
+                    "ProductName": "Family PC Pro",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000005",
+                    "Quantity": "2.000",
+                    "GrossAmount": "354.62",
+                    "NetAmount": "298.00",
+                    "TaxAmount": "56.62",
+                    "CurrencyCode": "MXN",
+                    "ProductId": "HT-1021",
+                    "ProductName": "Easy Hand V",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000005",
+                    "Quantity": "2.000",
+                    "GrossAmount": "80.92",
+                    "NetAmount": "68.00",
+                    "TaxAmount": "12.92",
+                    "CurrencyCode": "MXN",
+                    "ProductId": "HT-1106",
+                    "ProductName": "Smart Firewall",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000005",
+                    "Quantity": "3.000",
+                    "GrossAmount": "3213.00",
+                    "NetAmount": "2700.00",
+                    "TaxAmount": "513.00",
+                    "CurrencyCode": "MXN",
+                    "ProductId": "HT-1601",
+                    "ProductName": "Family PC Pro",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                }
+            ]
+        },
+        {
+            "SoId": "Produkt7",
+            "ApprovalStatus": "",
+            "Status": "Initial",
+            "ConfirmationStatus": "",
+            "BillingStatus": "Initial",
+            "OrderingStatus": "",
+            "OrderingStatusDesc": "Initial",
+            "LifecycleStatus": "N",
+            "LifecycleStatusDesc": "Neu",
+            "Quantity": "300",
+            "MinimalQuantity": "100",
+            "QuantityUnit": "Pieces",
+            "GrossAmount": "6146.19",
+            "NetAmount": "5164.87",
+            "TaxAmount": "981.32",
+            "CurrencyCode": "EUR",
+            "CreatedAt": "2013-05-22T22:00:00",
+            "ChangedAt": "2013-05-22T22:00:00.000Z",
+            "CreatedByBp": "EPM USER",
+            "ChangedByName": "EPM USER",
+            "BusinessPartner": {
+                "SoId": "100000003",
+                "CompanyName": "Talpa",
+                "Street": "An der Breiten Wiese",
+                "Building": "422",
+                "PostalCode": "30625",
+                "City": "Hannover",
+                "Country": "DE"
+            },
+            "ForecastData": [
+                {
+                    "Month": "Januar",
+                    "Menge1": "-141.25",
+                    "Menge2": "410.87"
+                },
+                {
+                    "Month": "Februar",
+                    "Menge1": "133.82",
+                    "Menge2": "338.29"
+                },
+                {
+                    "Month": "März",
+                    "Menge1": "348.76",
+                    "Menge2": "487.66"
+                },
+                {
+                    "Month": "April",
+                    "Menge1": "217.29",
+                    "Menge2": "470.23"
+                },
+                {
+                    "Month": "Mai",
+                    "Menge1": "117",
+                    "Menge2": "170.55"
+                },
+                {
+                    "Month": "Juni",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "Juli",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "August",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "September",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "Oktober",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "November",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                },
+                {
+                    "Month": "Dezember",
+                    "Menge1": "609.16",
+                    "Menge2": "910.87"
+                }
+            ],
+            "Notes": [
+                {
+                    "Author": "George Washington",
+                    "Text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                    "CreatedAt": "2013-05-22T22:00:00",
+                    "Thumbnail": "http://upload.wikimedia.org/wikipedia/commons/2/25/George_Washington_as_CIC_of_the_Continental_Army_bust.jpg"
+                }
+            ],
+            "Attachments": [],
+            "LineItems": [
+                {
+                    "SoItemPos": "300000006",
+                    "Quantity": "3.000",
+                    "GrossAmount": "5890.50",
+                    "NetAmount": "4950.00",
+                    "TaxAmount": "940.50",
+                    "CurrencyCode": "EUR",
+                    "ProductId": "HT-1003",
+                    "ProductName": "Notebook Basic 19",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000006",
+                    "Quantity": "1.000",
+                    "GrossAmount": "95.08",
+                    "NetAmount": "79.90",
+                    "TaxAmount": "15.18",
+                    "CurrencyCode": "EUR",
+                    "ProductId": "HT-1101",
+                    "ProductName": "Smart Design",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000006",
+                    "Quantity": "3.000",
+                    "GrossAmount": "160.61",
+                    "NetAmount": "134.97",
+                    "TaxAmount": "25.64",
+                    "CurrencyCode": "EUR",
+                    "ProductId": "HT-2025",
+                    "ProductName": "CD/DVD case: 264 capacity",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                }
+            ]
+        },
+        {
+            "SoId": "Produkt8",
+            "ApprovalStatus": "",
+            "Status": "Initial",
+            "ConfirmationStatus": "",
+            "BillingStatus": "Initial",
+            "OrderingStatus": "",
+            "OrderingStatusDesc": "Initial",
+            "LifecycleStatus": "N",
+            "LifecycleStatusDesc": "Neu",
+            "Quantity": "300",
+            "MinimalQuantity": "100",
+            "QuantityUnit": "Pieces",
+            "GrossAmount": "5720.31",
+            "NetAmount": "4806.98",
+            "TaxAmount": "913.33",
+            "CurrencyCode": "EUR",
+            "CreatedAt": "2013-05-22T22:00:00",
+            "ChangedAt": "2013-05-22T22:00:00.000Z",
+            "CreatedByBp": "EPM USER",
+            "ChangedByName": "EPM USER",
+            "BusinessPartner": {
+                "SoId": "100000003",
+                "CompanyName": "Talpa",
+                "Street": "An der Breiten Wiese",
+                "Building": "422",
+                "PostalCode": "30625",
+                "City": "Hannover",
+                "Country": "DE"
+            },
+            "Notes": [],
+            "Attachments": [
+                {
+                    "Type": "ppt",
+                    "Title": "Execution plan",
+                    "Description": "Slide deck for the execution plan",
+                    "Size": "23 KB",
+                    "CreatedAt": "2013-01-11T22:00:00"
+                },
+                {
+                    "Type": "pdf",
+                    "Title": "Brochure",
+                    "Description": "A brochure of the desired hotel",
+                    "Size": "23 KB",
+                    "CreatedAt": "2013-01-11T22:00:00"
+                },
+                {
+                    "Type": "PostalCode",
+                    "Title": "Vacation images",
+                    "Description": "Archive of all those images from my vacation that i have taken while being away for a very long time",
+                    "Size": "5.3 MB",
+                    "CreatedAt": "2013-01-11T22:00:00"
+                }
+            ],
+            "LineItems": [
+                {
+                    "SoItemPos": "300000007",
+                    "Quantity": "2.000",
+                    "GrossAmount": "1187.62",
+                    "NetAmount": "998.00",
+                    "TaxAmount": "189.62",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-1007",
+                    "ProductName": "1UMTS PDA",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000007",
+                    "Quantity": "3.000",
+                    "GrossAmount": "246.33",
+                    "NetAmount": "207.00",
+                    "TaxAmount": "39.33",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-1102",
+                    "ProductName": "Smart Network",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000007",
+                    "Quantity": "1.000",
+                    "GrossAmount": "535.49",
+                    "NetAmount": "449.99",
+                    "TaxAmount": "85.50",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-2001",
+                    "ProductName": "10\" Portable DVD player",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000007",
+                    "Quantity": "2.000",
+                    "GrossAmount": "1187.62",
+                    "NetAmount": "998.00",
+                    "TaxAmount": "189.62",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-1007",
+                    "ProductName": "1UMTS PDA",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000007",
+                    "Quantity": "2.000",
+                    "GrossAmount": "164.22",
+                    "NetAmount": "138.00",
+                    "TaxAmount": "26.22",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-1102",
+                    "ProductName": "Smart Network",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000007",
+                    "Quantity": "1.000",
+                    "GrossAmount": "535.49",
+                    "NetAmount": "449.99",
+                    "TaxAmount": "85.50",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-2001",
+                    "ProductName": "10\" Portable DVD player",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000007",
+                    "Quantity": "3.000",
+                    "GrossAmount": "1781.43",
+                    "NetAmount": "1497.00",
+                    "TaxAmount": "284.43",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-1007",
+                    "ProductName": "1UMTS PDA",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000007",
+                    "Quantity": "1.000",
+                    "GrossAmount": "82.11",
+                    "NetAmount": "69.00",
+                    "TaxAmount": "13.11",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-1102",
+                    "ProductName": "Smart Network",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                }
+            ]
+        },
+        {
+            "SoId": "Produkt9",
+            "ApprovalStatus": "",
+            "Status": "Initial",
+            "ConfirmationStatus": "",
+            "BillingStatus": "Initial",
+            "OrderingStatus": "",
+            "OrderingStatusDesc": "Initial",
+            "LifecycleStatus": "N",
+            "LifecycleStatusDesc": "Neu",
+            "Quantity": "300",
+            "MinimalQuantity": "100",
+            "QuantityUnit": "Pieces",
+            "GrossAmount": "4444.17",
+            "NetAmount": "3734.60",
+            "TaxAmount": "709.57",
+            "CurrencyCode": "EUR",
+            "CreatedAt": "2013-05-22T22:00:00",
+            "ChangedAt": "2013-05-22T22:00:00.000Z",
+            "CreatedByBp": "EPM USER",
+            "ChangedByName": "EPM USER",
+            "BusinessPartner": {
+                "SoId": "100000003",
+                "CompanyName": "Talpa",
+                "Street": "An der Breiten Wiese",
+                "Building": "422",
+                "PostalCode": "30625",
+                "City": "Hannover",
+                "Country": "DE"
+            },
+            "Notes": [
+                {
+                    "Author": "George Washington",
+                    "Text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                    "CreatedAt": "2013-05-22T22:00:00",
+                    "Thumbnail": "http://upload.wikimedia.org/wikipedia/commons/2/25/George_Washington_as_CIC_of_the_Continental_Army_bust.jpg"
+                },
+                {
+                    "Author": "Christopher Columbus",
+                    "Text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr",
+                    "CreatedAt": "2013-05-22T22:00:00",
+                    "Thumbnail": "http://upload.wikimedia.org/wikipedia/commons/0/06/CristobalColon.jpg"
+                },
+                {
+                    "Author": "Alexandrina Victoria",
+                    "Text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat",
+                    "CreatedAt": "2013-05-22T22:00:00",
+                    "Thumbnail": "http://upload.wikimedia.org/wikipedia/commons/a/aa/Dronning_victoria.jpg"
+                }
+            ],
+            "Attachments": [
+                {
+                    "Type": "ppt",
+                    "Title": "Execution plan",
+                    "Description": "Slide deck for the execution plan",
+                    "Size": "23 KB",
+                    "CreatedAt": "2013-01-11T22:00:00"
+                },
+                {
+                    "Type": "pdf",
+                    "Title": "Brochure",
+                    "Description": "A brochure of the desired hotel",
+                    "Size": "23 KB",
+                    "CreatedAt": "2013-01-11T22:00:00"
+                }
+            ],
+            "LineItems": [
+                {
+                    "SoItemPos": "300000008",
+                    "Quantity": "2.000",
+                    "GrossAmount": "1428.00",
+                    "NetAmount": "1200.00",
+                    "TaxAmount": "228.00",
+                    "CurrencyCode": "ARS",
+                    "ProductId": "HT-1600",
+                    "ProductName": "Family PC Basic",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000008",
+                    "Quantity": "2.000",
+                    "GrossAmount": "487.90",
+                    "NetAmount": "410.00",
+                    "TaxAmount": "77.90",
+                    "CurrencyCode": "ARS",
+                    "ProductId": "HT-1022",
+                    "ProductName": "Easy Hand VII",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000008",
+                    "Quantity": "2.000",
+                    "GrossAmount": "71.16",
+                    "NetAmount": "59.80",
+                    "TaxAmount": "11.36",
+                    "CurrencyCode": "ARS",
+                    "ProductId": "HT-1107",
+                    "ProductName": "Smart Money",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000008",
+                    "Quantity": "3.000",
+                    "GrossAmount": "2142.00",
+                    "NetAmount": "1800.00",
+                    "TaxAmount": "342.00",
+                    "CurrencyCode": "ARS",
+                    "ProductId": "HT-1600",
+                    "ProductName": "Family PC Basic",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000008",
+                    "Quantity": "1.000",
+                    "GrossAmount": "243.95",
+                    "NetAmount": "205.00",
+                    "TaxAmount": "38.95",
+                    "CurrencyCode": "ARS",
+                    "ProductId": "HT-1022",
+                    "ProductName": "Easy Hand VII",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000008",
+                    "Quantity": "2.000",
+                    "GrossAmount": "71.16",
+                    "NetAmount": "59.80",
+                    "TaxAmount": "11.36",
+                    "CurrencyCode": "ARS",
+                    "ProductId": "HT-1107",
+                    "ProductName": "Smart Money",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                }
+            ]
+        },
+        {
+            "SoId": "Produkt10",
+            "ApprovalStatus": "",
+            "Status": "Initial",
+            "ConfirmationStatus": "",
+            "BillingStatus": "Initial",
+            "OrderingStatus": "",
+            "OrderingStatusDesc": "Initial",
+            "LifecycleStatus": "N",
+            "LifecycleStatusDesc": "Neu",
+            "Quantity": "300",
+            "MinimalQuantity": "100",
+            "QuantityUnit": "Pieces",
+            "GrossAmount": "3453.38",
+            "NetAmount": "2902.00",
+            "TaxAmount": "551.38",
+            "CurrencyCode": "EUR",
+            "CreatedAt": "2013-05-22T22:00:00",
+            "ChangedAt": "2013-05-22T22:00:00.000Z",
+            "CreatedByBp": "EPM USER",
+            "ChangedByName": "EPM USER",
+            "BusinessPartner": {
+                "CompanyName": "SAP AG",
+                "SoId": "100000000",
+                "Street": "Dietmar-Hopp-Allee",
+                "Building": "15",
+                "PostalCode": "69190",
+                "City": "Walldorf",
+                "Country": "DE"
+            },
+            "Notes": [
+                {
+                    "Author": "George Washington",
+                    "Text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                    "CreatedAt": "2013-05-22T22:00:00",
+                    "Thumbnail": "http://upload.wikimedia.org/wikipedia/commons/2/25/George_Washington_as_CIC_of_the_Continental_Army_bust.jpg"
+                },
+                {
+                    "Author": "Christopher Columbus",
+                    "Text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr",
+                    "CreatedAt": "2013-05-22T22:00:00",
+                    "Thumbnail": "http://upload.wikimedia.org/wikipedia/commons/0/06/CristobalColon.jpg"
+                }
+            ],
+            "Attachments": [
+                {
+                    "Type": "ppt",
+                    "Title": "Execution plan",
+                    "Description": "Slide deck for the execution plan",
+                    "Size": "23 KB",
+                    "CreatedAt": "2013-01-11T22:00:00"
+                }
+            ],
+            "LineItems": [
+                {
+                    "SoItemPos": "300000009",
+                    "Quantity": "2.000",
+                    "GrossAmount": "1116.22",
+                    "NetAmount": "938.00",
+                    "TaxAmount": "178.22",
+                    "CurrencyCode": "EUR",
+                    "ProductId": "HT-6100",
+                    "ProductName": "Beam Breaker B-1",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000009",
+                    "Quantity": "2.000",
+                    "GrossAmount": "2275.28",
+                    "NetAmount": "1912.00",
+                    "TaxAmount": "363.28",
+                    "CurrencyCode": "EUR",
+                    "ProductId": "HT-1000",
+                    "ProductName": "Notebook Basic 15",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000009",
+                    "Quantity": "2.000",
+                    "GrossAmount": "61.88",
+                    "NetAmount": "52.00",
+                    "TaxAmount": "9.88",
+                    "CurrencyCode": "EUR",
+                    "ProductId": "HT-1091",
+                    "ProductName": "Blaster Extreme",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                }
+            ]
+        },
+        {
+            "SoId": "Produkt11",
+            "ApprovalStatus": "",
+            "Status": "Initial",
+            "ConfirmationStatus": "",
+            "BillingStatus": "Initial",
+            "OrderingStatus": "",
+            "OrderingStatusDesc": "Initial",
+            "LifecycleStatus": "N",
+            "LifecycleStatusDesc": "Neu",
+            "Quantity": "300",
+            "MinimalQuantity": "100",
+            "QuantityUnit": "Pieces",
+            "GrossAmount": "8150.94",
+            "NetAmount": "6849.53",
+            "TaxAmount": "1301.41",
+            "CurrencyCode": "EUR",
+            "CreatedAt": "2013-05-22T22:00:00",
+            "ChangedAt": "2013-05-22T22:00:00.000Z",
+            "CreatedByBp": "EPM USER",
+            "ChangedByName": "EPM USER",
+            "BusinessPartner": {
+                "SoId": "100000002",
+                "CompanyName": "DelBont Industries",
+                "Street": "1 2345 King Street",
+                "Building": "1",
+                "PostalCode": "19899",
+                "City": "Wilmington, Delaware",
+                "Country": "US"
+            },
+            "Notes": [
+                {
+                    "Author": "George Washington",
+                    "Text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                    "CreatedAt": "2013-05-22T22:00:00",
+                    "Thumbnail": "http://upload.wikimedia.org/wikipedia/commons/2/25/George_Washington_as_CIC_of_the_Continental_Army_bust.jpg"
+                }
+            ],
+            "Attachments": [],
+            "LineItems": [
+                {
+                    "SoItemPos": "300000010",
+                    "Quantity": "2.000",
+                    "GrossAmount": "71.38",
+                    "NetAmount": "59.98",
+                    "TaxAmount": "11.40",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-2026",
+                    "ProductName": "Audio/Video Cable Kit - 12 ft",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000010",
+                    "Quantity": "2.000",
+                    "GrossAmount": "3736.60",
+                    "NetAmount": "3140.00",
+                    "TaxAmount": "596.60",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-1002",
+                    "ProductName": "Notebook Basic 18",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000010",
+                    "Quantity": "3.000",
+                    "GrossAmount": "320.94",
+                    "NetAmount": "269.70",
+                    "TaxAmount": "51.24",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-1100",
+                    "ProductName": "Smart Office",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000010",
+                    "Quantity": "2.000",
+                    "GrossAmount": "71.38",
+                    "NetAmount": "59.98",
+                    "TaxAmount": "11.40",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-2026",
+                    "ProductName": "Audio/Video Cable Kit - 12 ft",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000010",
+                    "Quantity": "2.000",
+                    "GrossAmount": "3736.60",
+                    "NetAmount": "3140.00",
+                    "TaxAmount": "596.60",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-1002",
+                    "ProductName": "Notebook Basic 18",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000010",
+                    "Quantity": "1.000",
+                    "GrossAmount": "106.98",
+                    "NetAmount": "89.90",
+                    "TaxAmount": "17.08",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-1100",
+                    "ProductName": "Smart Office",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000010",
+                    "Quantity": "3.000",
+                    "GrossAmount": "107.06",
+                    "NetAmount": "89.97",
+                    "TaxAmount": "17.09",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-2026",
+                    "ProductName": "Audio/Video Cable Kit - 12 ft",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                }
+            ]
+        },
+        {
+            "SoId": "Produkt12",
+            "ApprovalStatus": "",
+            "Status": "Initial",
+            "ConfirmationStatus": "",
+            "BillingStatus": "Initial",
+            "OrderingStatus": "",
+            "OrderingStatusDesc": "Initial",
+            "LifecycleStatus": "N",
+            "LifecycleStatusDesc": "Neu",
+            "Quantity": "300",
+            "MinimalQuantity": "100",
+            "QuantityUnit": "Pieces",
+            "GrossAmount": "3040.41",
+            "NetAmount": "2554.97",
+            "TaxAmount": "485.44",
+            "CurrencyCode": "EUR",
+            "CreatedAt": "2013-05-22T22:00:00",
+            "ChangedAt": "2013-05-22T22:00:00.000Z",
+            "CreatedByBp": "EPM USER",
+            "ChangedByName": "EPM USER",
+            "BusinessPartner": {
+                "SoId": "100000008",
+                "CompanyName": "AVANTEL",
+                "Street": "Bosque de Duraznos",
+                "Building": "24",
+                "PostalCode": "17000",
+                "City": "Mexiko City",
+                "Country": "MX"
+            },
+            "Notes": [],
+            "Attachments": [
+                {
+                    "Type": "ppt",
+                    "Title": "Execution plan",
+                    "Description": "Slide deck for the execution plan",
+                    "Size": "23 KB",
+                    "CreatedAt": "2013-01-11T22:00:00"
+                },
+                {
+                    "Type": "pdf",
+                    "Title": "Brochure",
+                    "Description": "A brochure of the desired hotel",
+                    "Size": "23 KB",
+                    "CreatedAt": "2013-01-11T22:00:00"
+                },
+                {
+                    "Type": "PostalCode",
+                    "Title": "Vacation images",
+                    "Description": "Archive of all those images from my vacation that i have taken while being away for a very long time",
+                    "Size": "5.3 MB",
+                    "CreatedAt": "2013-01-11T22:00:00"
+                }
+            ],
+            "LineItems": [
+                {
+                    "SoItemPos": "300000011",
+                    "Quantity": "1.000",
+                    "GrossAmount": "593.81",
+                    "NetAmount": "499.00",
+                    "TaxAmount": "94.81",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-1007",
+                    "ProductName": "1UMTS PDA",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000011",
+                    "Quantity": "3.000",
+                    "GrossAmount": "246.33",
+                    "NetAmount": "207.00",
+                    "TaxAmount": "39.33",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-1102",
+                    "ProductName": "Smart Network",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000011",
+                    "Quantity": "3.000",
+                    "GrossAmount": "1606.46",
+                    "NetAmount": "1349.97",
+                    "TaxAmount": "256.49",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-2001",
+                    "ProductName": "10\" Portable DVD player",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                },
+                {
+                    "SoItemPos": "300000011",
+                    "Quantity": "1.000",
+                    "GrossAmount": "593.81",
+                    "NetAmount": "499.00",
+                    "TaxAmount": "94.81",
+                    "CurrencyCode": "USD",
+                    "ProductId": "HT-1007",
+                    "ProductName": "1UMTS PDA",
+                    "QuantityUnit": "EA",
+                    "DeliveryDate": "2013-05-29T22:00:00"
+                }
+            ]
+        }
+    ]
+}
