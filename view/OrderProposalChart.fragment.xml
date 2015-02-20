@@ -1,3 +1,6 @@
-<core:FragmentDefinition xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:viz="sap.viz.ui5" xmlns:types="sap.viz.ui5.types">
-	<viz:Bar id="barChart" width="100%" height="400px" selectData="handleOrderProposalDataSelect"></viz:Bar>
+<core:FragmentDefinition xmlns:core="sap.ui.core"
+  xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:html="http://www.w3.org/1999/xhtml"
+  xmlns:viz="sap.viz.ui5" xmlns:types="sap.viz.ui5.types">
+  <viz:Bar id="barChart" width="100%" height="400px"
+    selectData="handleOrderProposalDataSelect"></viz:Bar>
 </core:FragmentDefinition>

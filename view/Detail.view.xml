@@ -1,56 +1,50 @@
-<core:View
-	controllerName="abat.Mockup.view.Detail"
-	xmlns="sap.m"
-	xmlns:core="sap.ui.core">
-	<Page
-		title="{i18n>DetailTitle}"
-		class="sapUiFioriObjectPage"
-		showNavButton="{device>/isPhone}"
-		navButtonPress="handleNavButtonPress" >
-		<ObjectHeader
-			title="{MaterialName}"
-			number="{Quantity}"
-			numberUnit="{i18n&gt;QuantityUnit}"
-			numberState="{parts: [ 'Quantity', 'MinimalQuantity' ],formatter: 'abat.Mockup.util.Formatter.numberState'}" icon="img/placeholder.gif">
-			<attributes>
-				<ObjectAttribute text="{i18n&gt;MatId}: {MatId}"></ObjectAttribute>
-				<ObjectAttribute text="{i18n&gt;GrossAmount}: {GrossAmount} {CurrencyCode}" />
-				<ObjectAttribute text="{i18n&gt;TaxAmount}: {TaxAmount} {CurrencyCode}" />
-				<ObjectAttribute text="{i18n&gt;NetAmount}: {NetAmount} {CurrencyCode}" />
-			</attributes>
-			<firstStatus>
-				<ObjectStatus
-					text="{Status}"
-					state="{path: 'Status', formatter: 'abat.Mockup.util.Formatter.statusState'}" />
-			</firstStatus>
-		</ObjectHeader>
-		<IconTabBar
-			expanded="{device>/isNoPhone}" >
-			<items>
-				<IconTabFilter 
-					text="{i18n&gt;IconTab_1}"
-					icon="sap-icon://vertical-bar-chart-2">
-					<content>
-					<core:Fragment type="XML" fragmentName="abat.Mockup.view.ForecastChart"></core:Fragment></content>
-				</IconTabFilter>
-				<IconTabFilter 
-					text="{i18n&gt;IconTab_2}" 
-					icon="sap-icon://line-chart">
-					<content>
-						<core:Fragment fragmentName="abat.Mockup.view.OrderProposalChart" type="XML"></core:Fragment>
-					</content>
-				</IconTabFilter>
-			</items>
-		</IconTabBar>
-		<footer>
-			<Bar>
-				<contentRight>
-					<Button
-						text="{i18n>ApproveButtonText}"
-						icon="sap-icon://accept"
-						press="handleApprove" />
-				</contentRight>
-			</Bar>
-		</footer>
-	</Page>
+<core:View controllerName="abat.Mockup.view.Detail" xmlns="sap.m"
+  xmlns:core="sap.ui.core">
+  <Page title="{i18n>DetailTitle}" class="sapUiFioriObjectPage"
+    showNavButton="{device>/isPhone}" navButtonPress="handleNavButtonPress">
+    <ObjectHeader title="{MaterialName}" number="{Quantity}"
+      numberUnit="{i18n&gt;QuantityUnit}"
+      numberState="{parts: [ 'Quantity', 'MinimalQuantity' ],
+        formatter: 'abat.Mockup.util.Formatter.numberState'}"
+      icon="img/placeholder.gif">
+      <attributes>
+        <ObjectAttribute text="{i18n&gt;MatId}: {MatId}"></ObjectAttribute>
+        <ObjectAttribute
+          text="{i18n&gt;GrossAmount}: {GrossAmount} {CurrencyCode}" />
+        <ObjectAttribute
+          text="{i18n&gt;TaxAmount}: {TaxAmount} {CurrencyCode}" />
+        <ObjectAttribute
+          text="{i18n&gt;NetAmount}: {NetAmount} {CurrencyCode}" />
+      </attributes>
+      <firstStatus>
+        <ObjectStatus text="{Status}"
+          state="{path: 'Status', formatter: 'abat.Mockup.util.Formatter.statusState'}" />
+      </firstStatus>
+    </ObjectHeader>
+    <IconTabBar expanded="{device>/isNoPhone}">
+      <items>
+        <IconTabFilter text="{i18n&gt;IconTab_1}"
+          icon="sap-icon://vertical-bar-chart-2">
+          <content>
+            <core:Fragment type="XML"
+              fragmentName="abat.Mockup.view.ForecastChart"></core:Fragment>
+          </content>
+        </IconTabFilter>
+        <IconTabFilter text="{i18n&gt;IconTab_2}" icon="sap-icon://line-chart">
+          <content>
+            <core:Fragment type="XML"
+              fragmentName="abat.Mockup.view.OrderProposalChart"></core:Fragment>
+          </content>
+        </IconTabFilter>
+      </items>
+    </IconTabBar>
+    <footer>
+      <Bar>
+        <contentRight>
+          <Button text="{i18n>ApproveButtonText}" icon="sap-icon://accept"
+            press="handleApprove" />
+        </contentRight>
+      </Bar>
+    </footer>
+  </Page>
 </core:View>
